@@ -93,8 +93,7 @@ radio_scheme_manager_project_v2/
 │   └── ui.py                       # Tkinter-интерфейс
 ├── tests/                          # unit-тесты
 ├── scripts/
-│   ├── build_exe_windows.bat       # сборка exe на Windows
-│   └── count_logical_lines.py      # подсчет строк кода
+│   └── build_exe_windows.bat       # сборка exe на Windows
 ├── data/                           # база SQLite создается автоматически
 ├── exports/                        # сформированные отчеты
 └── docs/                           # материалы для описания в ВКР
