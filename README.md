@@ -33,13 +33,6 @@ python run_server.py
 python run_client.py
 ```
 
-## Проверка проекта
-
-```bash
-python -m unittest discover -v
-python scripts/count_logical_lines.py
-```
-
 ## Основной функционал
 
 - авторизация и роли пользователей;
