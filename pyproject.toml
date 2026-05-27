@@ -1,0 +1,9 @@
+[project]
+name = "radio-scheme-manager"
+version = "1.0.0"
+description = "АС управления разработкой радиоэлектронных схем для ВКР"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

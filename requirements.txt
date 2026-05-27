@@ -1,0 +1,5 @@
+# Для запуска проекта внешние библиотеки не требуются.
+# Используются только стандартные модули Python: tkinter, sqlite3, http.server, urllib, zipfile.
+
+pyinstaller==6.10.0
+pytest==8.3.4
